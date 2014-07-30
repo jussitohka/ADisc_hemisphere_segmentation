@@ -22,7 +22,10 @@ of the IEEE Engineering in Medicine and Biology Society, EMBC08, pages
 
 http://www.ncbi.nlm.nih.gov/pubmed/19163562
 
-and it was part of Lu Zhao's PhD work in the group led by Jussi Tohka.
+and it was part of Lu Zhao's PhD work in the group led by Jussi Tohka. 
+This new implementation made available here is very fast requiring about 
+5 minutes per image in contrast to slow running times reported in 
+L. Zhao et al 2010.
 
 To use the package, first, you should compile the 'Info_Map_Gen.c' file 
 into mex-file (mex file for 32-bit and 64-bit Windows are included already). This 
