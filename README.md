@@ -38,3 +38,9 @@ fraction estimates using
 https://github.com/jussitohka/pvemri
 
 Matlab's image processing toolbox is also required.
+
+A short account on the implementation is provided in 
+
+http://www.cs.tut.fi/~jupeto/OHBM_2011_Zhao.pdf
+
+
